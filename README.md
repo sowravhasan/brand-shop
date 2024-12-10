@@ -1,6 +1,6 @@
 # TechNest Brand Shop
 
-Welcome to my client-side project! This project [briefly describe your project's purpose].
+Welcome to my client-side project! 
 
 ## Live Link
 You can access the live version of this project here: [View Site](https://brand-shop-82443.web.app/)
